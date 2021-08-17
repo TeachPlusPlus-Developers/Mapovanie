@@ -34,7 +34,7 @@
     "geojson": "^0.5.0",
     "ionicons": "^5.5.1",
     "luxon": "^1.27.0",
-    "mapbox-gl": "^2.2.0",
+    "mapbox-gl": "^2.4.1",
     "scriptjs": "^2.5.9",
     "vue": "^3.0.9",
     "vue-gtag": "^2.0.1",
