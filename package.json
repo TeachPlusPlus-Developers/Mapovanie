@@ -47,7 +47,7 @@
     "@types/luxon": "^1.26.5",
     "@types/mapbox-gl": "^2.1.2",
     "@typescript-eslint/eslint-plugin": "^4.25.0",
-    "@typescript-eslint/parser": "^4.25.0",
+    "@typescript-eslint/parser": "^4.29.3",
     "@vue/cli-plugin-babel": "~4.5.13",
     "@vue/cli-plugin-eslint": "~4.5.13",
     "@vue/cli-plugin-router": "^4.5.13",
